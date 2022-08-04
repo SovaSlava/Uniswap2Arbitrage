@@ -1,0 +1,25 @@
+{
+  "name": "uniswap2arbitrage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SlavikDMI/Uniswap2Arbitrage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SlavikDMI/Uniswap2Arbitrage/issues"
+  },
+  "homepage": "https://github.com/SlavikDMI/Uniswap2Arbitrage#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "@openzeppelin/contracts": "^4.7.2",
+    "hardhat": "^2.10.1"
+  }
+}
